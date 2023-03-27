@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently making  a final goup project for the HENRY bootcamp<br>👯 I'm looking forward to collaborate on any react fullstack dev<br>🌱 I’m currently learning, Typescript and MongoDB.<br>💬 ask me about what you want
+🔭 Currently making  a final goup project for the HENRY bootcamp<br>👯 I'm looking forward to collaborate on any react fullstack dev<br>🌱 I’m currently learning, Typescript and MariaDB.<br>💬 ask me about what you want
 
 
 ## 🌐 Socials:
